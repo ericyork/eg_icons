@@ -33,12 +33,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
 }
 /*--
-Nav Links--*/
-nav a:link {color: var(--lt-prime); text-decoration: none; transition: all .3s ease-in-out;}
-nav a:visited {color: var(--lt-prime);}
-nav a:hover {color: var(--lt-gr);}
-nav a:active{color: var(--white);}
-/*--
 Nav Sections --*/
 nav {
   font-size: 1em;
@@ -66,6 +60,12 @@ nav {
   font-size: .8em;
   padding-top: .2em;
 }
+/*--
+Nav Link Styles--*/
+nav a:link {color: var(--lt-prime); text-decoration: none; transition: all .3s ease-in-out;}
+nav a:visited {color: var(--lt-prime);}
+nav a:hover {color: var(--lt-gr);}
+nav a:active{color: var(--white);}
 /*--
 Main Page Sections --*/
 header.splash {

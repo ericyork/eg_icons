@@ -30,6 +30,8 @@ body {
   background-color: var(--lt-gr);
   color: var(--black);
 }
+h1, h2, h3, h4, h5, h6 {
+}
 .splash {
   text-align: center;
   padding: 4rem 0 3rem 0;

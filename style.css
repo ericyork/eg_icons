@@ -32,11 +32,6 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
 }
-.splash {
-  text-align: center;
-  padding: 4rem 0 3rem 0;
-  font-size: 125%;
-}
 /*--
 Nav Links--*/
 nav a:link {color: var(--lt-prime); text-decoration: none; transition: all .3s ease-in-out;}
@@ -73,6 +68,11 @@ nav {
 }
 /*--
 Main Page Sections --*/
+header.splash {
+  text-align: center;
+  padding: 4rem 0 3rem 0;
+  font-size: 125%;
+}
 main {
   max-width: 94vw;
   margin: auto;

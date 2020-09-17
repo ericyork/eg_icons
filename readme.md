@@ -1,4 +1,4 @@
- = Icon Font Demo
+== Icon Font Demo
 
 This project is both a demo for and a tribute to icon fonts.
 

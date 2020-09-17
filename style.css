@@ -81,6 +81,7 @@ section {
   margin: 1rem auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  /*grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));*/
   grid-gap: 1.5rem;
   padding-bottom: 3rem;
 }
